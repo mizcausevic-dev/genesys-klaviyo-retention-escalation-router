@@ -1,0 +1,10 @@
+{
+  "name": "genesys-klaviyo-retention-escalation-router",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Retention escalation router for Genesys queue leakage, Klaviyo save journeys, and executive churn-risk evidence.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}

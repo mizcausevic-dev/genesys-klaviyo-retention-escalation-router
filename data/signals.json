@@ -1,0 +1,30 @@
+{
+  "name": "Genesys Klaviyo Retention Escalation Router",
+  "slug": "genesys-klaviyo-retention-escalation-router",
+  "platforms": [
+    "Genesys",
+    "Klaviyo"
+  ],
+  "topics": [
+    "genesys",
+    "klaviyo",
+    "retention",
+    "escalation",
+    "contact-center",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}
